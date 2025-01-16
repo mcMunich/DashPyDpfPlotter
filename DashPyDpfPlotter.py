@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Sep 11 13:24:07 2023
 
-@author: mcapella
-"""
 import subprocess
 
 moduleNames = ['ansys-dpf-core', 'easygui', 'dash', 'webbrowser'] 
